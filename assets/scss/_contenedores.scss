@@ -1,0 +1,27 @@
+/* esta hoja es como nuestro archivo CSS anteriormente*/
+.cajapadre{
+    background-color: $Ca;
+}
+
+.cajita1 {
+    background-color: $Cr;
+    width: $th;
+    height: $tw;
+    padding: $pad;
+    border: $Bd;
+}
+
+.cajita2{
+    background-color: $Cv;
+    width: $th;
+    height: $tw;
+    padding: $pad;
+    border: $Bd;
+}
+.cajita3 {
+    background-color: $Ca;
+    width: $th;
+    height: $tw;
+    padding: $pad;
+    border: dashed;
+}
